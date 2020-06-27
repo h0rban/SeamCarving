@@ -9,3 +9,6 @@ This project was created following the instructions of the assignments for North
 <p align="center">
   <img src="https://github.com/h0rban/SeamCarving/blob/master/squeezing.gif" alt="Squeezing Demo" height="400"/>
 </p>
+
+## Partner
+[Vedant](https://github.com/vrautela)
